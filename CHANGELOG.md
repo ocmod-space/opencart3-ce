@@ -1,5 +1,9 @@
 # Change log (3.0.3.8)
 
+## 2023.05.29_1
+### Fixed
+- fixed implicit backslashes escape
+
 ## 2023.04.29_1
 ### Fixed
 - PHP files was beautifed to meet the [coding standards](https://github.com/opencart/opencart/wiki/Coding-standards).
