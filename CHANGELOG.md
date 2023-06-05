@@ -1,5 +1,9 @@
 # Change log (3.0.3.8)
 
+## 2023.06.05_1 [#fd7e99c](https://github.com/opencart/opencart/commit/fd7e99cd231a96b55043b1ac14155c2525de05faa)
+### Removed
+- No more AddThis services, see at https://www.addthis.com/
+
 ## 2023.05.29_1
 ### Fixed
 - fixed implicit backslashes escape
