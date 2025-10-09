@@ -2,6 +2,7 @@
 
 ## 2025.10.09
 ### Fixed
+ - [15074](https://github.com/opencart/opencart/pull/15074) - Fix model classes for `address_1`.
  - [15082](https://github.com/opencart/opencart/pull/15082) - To trim posted data once for POST requests, with subsequent validations not having to use individual trim calls. Also, currency symbols can now optionally have a blank space.
  - [#15097](https://github.com/opencart/opencart/issues/15097).
  - [#15140](https://github.com/opencart/opencart/pull/15140).
