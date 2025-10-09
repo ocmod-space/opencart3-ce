@@ -1,5 +1,16 @@
 # Change log (3.x.x.x)
 
+## 2025.10.09
+### Fixed
+ - [15082](https://github.com/opencart/opencart/pull/15082) - To trim posted data once for POST requests, with subsequent validations not having to use individual trim calls. Also, currency symbols can now optionally have a blank space.
+ - [#15097](https://github.com/opencart/opencart/issues/15097).
+ - [#15140](https://github.com/opencart/opencart/pull/15140).
+ - [#15141](https://github.com/opencart/opencart/pull/15141) - Typo in product language file.
+ - [#15148](https://github.com/opencart/opencart/pull/15148) - Typo in recurring controller.
+ - [#15149](https://github.com/opencart/opencart/pull/15149) - Typo in `recurring_list.twig`.
+ - [#15152](https://github.com/opencart/opencart/pull/15152) - Typo in `product_form.twig`.
+ - [#15153](https://github.com/opencart/opencart/pull/15153) - Typo in product model.
+
 ## 2025.06.23
 ### Fixed
  - Google Base feed module: Added support for more currencies, fix for price tag which must include currency code [#14956](https://github.com/opencart/opencart/pull/14956).
